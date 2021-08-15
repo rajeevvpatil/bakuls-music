@@ -1,6 +1,6 @@
 {
   "hosting": {
-    "public": "public",
+    "public": "dist/bakuls-music",
     "ignore": [
       "firebase.json",
       "**/.*",
